@@ -1,4 +1,3 @@
-l
 # CS 321 OpenSSH Server Log Project
 
 **Table of contents:**
